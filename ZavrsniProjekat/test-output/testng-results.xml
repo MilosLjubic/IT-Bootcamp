@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104103" started-at="2019-12-15T16:18:39 CET" finished-at="2019-12-15T16:20:23 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104103" started-at="2019-12-15T16:18:39 CET" finished-at="2019-12-15T16:20:23 CET">
+      <class name="tests.TravelCarsExtrasTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="setup" is-config="true" duration-ms="4844" started-at="2019-12-15T16:18:39 CET" finished-at="2019-12-15T16:18:44 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupClass()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="setupClass" is-config="true" duration-ms="16164" started-at="2019-12-15T16:18:44 CET" finished-at="2019-12-15T16:19:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="setupMethod" is-config="true" duration-ms="18539" started-at="2019-12-15T16:19:00 CET" finished-at="2019-12-15T16:19:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="addExtras()[pri:5, instance:tests.TravelCarsExtrasTests@2b552920]" name="addExtras" duration-ms="13046" started-at="2019-12-15T16:19:19 CET" finished-at="2019-12-15T16:19:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addExtras -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="quit" is-config="true" duration-ms="1" started-at="2019-12-15T16:19:32 CET" finished-at="2019-12-15T16:19:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="setupMethod" is-config="true" duration-ms="17676" started-at="2019-12-15T16:19:32 CET" finished-at="2019-12-15T16:19:49 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="inputCharsInPrice()[pri:10, instance:tests.TravelCarsExtrasTests@2b552920]" name="inputCharsInPrice" duration-ms="6787" started-at="2019-12-15T16:19:49 CET" finished-at="2019-12-15T16:19:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputCharsInPrice -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="quit" is-config="true" duration-ms="1" started-at="2019-12-15T16:19:56 CET" finished-at="2019-12-15T16:19:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="setupMethod" is-config="true" duration-ms="17804" started-at="2019-12-15T16:19:56 CET" finished-at="2019-12-15T16:20:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="uploadPicture()[pri:10, instance:tests.TravelCarsExtrasTests@2b552920]" name="uploadPicture" duration-ms="9174" started-at="2019-12-15T16:20:14 CET" finished-at="2019-12-15T16:20:23 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPicture -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.TravelCarsExtrasTests@2b552920]" name="quit" is-config="true" duration-ms="0" started-at="2019-12-15T16:20:23 CET" finished-at="2019-12-15T16:20:23 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.TravelCarsExtrasTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
