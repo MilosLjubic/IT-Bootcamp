@@ -83,7 +83,7 @@ public class TravelCarsExtrasTests extends BasicTest {
 		Assert.assertTrue(tce.isImageUploadedSuccessfuly());
 	}
 
-	@Test(priority = 10)
+	@Test(priority = 15)
 	public void inputCharsInPrice() throws Exception {
 		TravelCarsExtras tce = new TravelCarsExtras(driver);
 
