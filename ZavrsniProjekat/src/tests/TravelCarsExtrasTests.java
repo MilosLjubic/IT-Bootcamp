@@ -1,7 +1,7 @@
 package tests;
 
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
@@ -97,7 +97,7 @@ public class TravelCarsExtrasTests extends BasicTest {
 		Assert.assertFalse(tce.inputCharsInPriceField());
 	}
 
-	@AfterMethod
+	@AfterClass
 	public void quit() {
 		ex.closeExcell();
 	}
